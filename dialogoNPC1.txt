@@ -3,3 +3,4 @@ A esta altura del año me queda una única neura activa
 ¿Le interesaría que le pase una receta de galletitas? (Si/No)
 
 ["dialogoNPC-SI","dialogoNPC-NO"]
+
